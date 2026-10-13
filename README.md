@@ -1,1 +1,0 @@
-# Menghitung-Bilangan-Ganjil-dan-Genap
